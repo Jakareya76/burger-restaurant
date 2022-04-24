@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/burger-restaurant/static/css/main.19cc9c02.css",
-    "main.js": "/burger-restaurant/static/js/main.d2db9eef.js",
-    "static/media/bg.png": "/burger-restaurant/static/media/bg.0396ca85943765b18f6e.png",
-    "static/media/hero.png": "/burger-restaurant/static/media/hero.2de608c08d87d2862109.png",
-    "static/media/bestburger.png": "/burger-restaurant/static/media/bestburger.abacf31e29642f4b8653.png",
-    "static/media/model-3.png": "/burger-restaurant/static/media/model-3.9001e2603197ee6f03c4.png",
-    "static/media/Design.png": "/burger-restaurant/static/media/Design.64946b363abb090dd990.png",
-    "static/media/Design-2.png": "/burger-restaurant/static/media/Design-2.0851ec7c815e06fd25c6.png",
-    "static/media/model-1.png": "/burger-restaurant/static/media/model-1.c0685a7d7d7d413ec730.png",
-    "static/media/model-2.png": "/burger-restaurant/static/media/model-2.74a8d83eb9a0940344a5.png",
+    "main.js": "/burger-restaurant/static/js/main.0c5e164e.js",
+    "static/media/bg.png": "/burger-restaurant/static/media/bg.db49139d78bbd7f51c1d.png",
+    "static/media/hero.png": "/burger-restaurant/static/media/hero.af312043d737e6958f29.png",
+    "static/media/bestburger.png": "/burger-restaurant/static/media/bestburger.a56038a9753c16065b27.png",
+    "static/media/model-3.png": "/burger-restaurant/static/media/model-3.ba9e4a12e681912c1ebc.png",
+    "static/media/Design.png": "/burger-restaurant/static/media/Design.36a58e10b46d24884d1d.png",
+    "static/media/Design-2.png": "/burger-restaurant/static/media/Design-2.498110b1648f698d1aac.png",
+    "static/media/model-2.png": "/burger-restaurant/static/media/model-2.5c15cf4609b1b6de9f81.png",
+    "static/media/model-1.png": "/burger-restaurant/static/media/model-1.14e386f45a7940ae5ee7.png",
     "index.html": "/burger-restaurant/index.html",
     "main.19cc9c02.css.map": "/burger-restaurant/static/css/main.19cc9c02.css.map",
-    "main.d2db9eef.js.map": "/burger-restaurant/static/js/main.d2db9eef.js.map"
+    "main.0c5e164e.js.map": "/burger-restaurant/static/js/main.0c5e164e.js.map"
   },
   "entrypoints": [
     "static/css/main.19cc9c02.css",
-    "static/js/main.d2db9eef.js"
+    "static/js/main.0c5e164e.js"
   ]
 }
